@@ -33,16 +33,16 @@
 - <img src="https://img.icons8.com/ios-filled/50/EA4335/gmail-new.png" width="17"/> Gmail: ph.hnhi0403@gmail.com
 
 ## 📊 **Stats**
-| <a href="https://github.com/nhiph4303"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nhiph4303&show_icons=true&theme=panda&hide=issues" alt="Nhi's GitHub Stats" /></a> | <a href="https://github.com/nhiph4303"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nhiph4303&layout=compact&theme=panda" alt="Top Languages" /></a> |
+| <a href="https://github.com/nhiph4303"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nhiph4303&show_icons=true&theme=panda&hide=issues&cache_seconds=1800" alt="Nhi's GitHub Stats" /></a> | <a href="https://github.com/nhiph4303"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nhiph4303&layout=compact&theme=panda&cache_seconds=1800" alt="Top Languages" /></a> |
 | ------------- | ------------- |
 
 ## 📉 **Top Repositories**
-<a href="https://github.com/nhiph4303/Cosmetic-ecommerce-website"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nhiph4303&repo=Cosmetic-ecommerce-website&theme=radical" /></a>
-<a href="https://github.com/nhiph4303/Housing-rental-front-end"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nhiph4303&repo=Housing-rental-front-end&theme=jolly" /></a>
-<a href="https://github.com/nhiph4303/Restaurant-management-system"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nhiph4303&repo=Restaurant-management-system&theme=neon" /></a>
+<a href="https://github.com/nhiph4303/Cosmetic-ecommerce-website"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nhiph4303&repo=Cosmetic-ecommerce-website&theme=radical&cache_seconds=1800" /></a>
+<a href="https://github.com/nhiph4303/Housing-rental-front-end"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nhiph4303&repo=Housing-rental-front-end&theme=jolly&cache_seconds=1800" /></a>
+<a href="https://github.com/nhiph4303/Restaurant-management-system"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nhiph4303&repo=Restaurant-management-system&theme=neon&cache_seconds=1800" /></a>
 <br/>
 
-<a href="https://github.com/nhiph4303/CSE-454-Open-Source-Course"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nhiph4303&repo=CSE-454-Open-Source-Course&theme=buefy" /></a>
+<a href="https://github.com/nhiph4303/CSE-454-Open-Source-Course"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nhiph4303&repo=CSE-454-Open-Source-Course&theme=buefy&cache_seconds=1800" /></a>
 
 ---
 🎉 **Thank you for visiting! Feel free to connect with me and explore my projects!** 🌷
