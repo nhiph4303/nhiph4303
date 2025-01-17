@@ -34,6 +34,8 @@
 - <img src="https://img.icons8.com/ios-filled/50/EA4335/gmail-new.png" width="17"/> Gmail: ph.hnhi0403@gmail.com
 
 ## 📊 **Stats**
+| <a href="https://github.com/nhiph4303"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nhiph4303&show_icons=true&theme=panda&hide=issues&cache_seconds=5" alt="Nhi's GitHub Stats" /></a> | <a href="https://github.com/nhiph4303"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nhiph4303&layout=compact&theme=panda&cache_seconds=5" alt="Top Languages" /></a> |
+| ------------- | ------------- |
 
 ## 📉 **Top Repositories**
 <a href="https://github.com/nhiph4303/Cosmetic-ecommerce-website"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nhiph4303&repo=Cosmetic-ecommerce-website&theme=radical&cache_seconds=1800" /></a>
