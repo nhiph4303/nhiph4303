@@ -4,7 +4,8 @@
   </a>
 </p>
 <p align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzR1bTdpbWY4NXo0OWM1amUycHplZWhodjdrMzZ1OHd6bWYzc2NudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xd22iKsu0Wn0Q/giphy.gif" width="35"> Welcome to my Page! <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzR1bTdpbWY4NXo0OWM1amUycHplZWhodjdrMzZ1OHd6bWYzc2NudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xd22iKsu0Wn0Q/giphy.gif" width="35">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzR1bTdpbWY4NXo0OWM1amUycHplZWhodjdrMzZ1OHd6bWYzc2NudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xd22iKsu0Wn0Q/giphy.gif" width="35"> Welcome to my Page! 
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzR1bTdpbWY4NXo0OWM1amUycHplZWhodjdrMzZ1OHd6bWYzc2NudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xd22iKsu0Wn0Q/giphy.gif" width="35">
 </p>
 
 <p align="center">
