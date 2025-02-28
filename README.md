@@ -38,7 +38,7 @@
 | ------------- | ------------- |
 
 ## 📉 **Top Repositories**
-<a href="https://github.com/nhiph4303/cosmetic-ecommerce-website"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nhiph4303&repo=cosmetic-ecommerce-website&theme=radical&cache_seconds=1800" /></a>
+<a href="https://github.com/nhiph4303/cosmetic-ecommerce-website"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nhiph4303&repo=Cosmetic-ecommerce-website&theme=radical&cache_seconds=1800" /></a>
 <a href="https://github.com/nhiph4303/Housing-rental-front-end"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nhiph4303&repo=Housing-rental-front-end&theme=jolly&cache_seconds=1800" /></a>
 <a href="https://github.com/nhiph4303/Restaurant-management-system"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nhiph4303&repo=Restaurant-management-system&theme=neon&cache_seconds=1800" /></a>
 <br/>
