@@ -1,7 +1,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=aj7tt&color=green)
 <p align="center">
   <a href="https://github.com/nhiph4303">
-    <img width="13%" alt="Hello, I'm Nini" src="./assets/nini.png" />
+    <img width="17%" alt="Hello, I'm Nini" src="./assets/nini.png" />
   </a>
 </p>
 
