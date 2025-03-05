@@ -4,23 +4,37 @@
     <img width="25%" alt="Hello, I'm Nini" src="./assets/nini.png" />
   </a>
 </p>
+
+# 🌷 About Me  
+I'm a Software Engineering student who loves web development, testing, and problem-solving.
+
+- 🔭 Currently building and learning **web applications** with **React, Java Spring, and ASP.NET**.  
+- 🌱 Exploring **AI** as my next learning goal.  
+- 💬 Let’s connect and talk about tech, books, or cats! 🚀
+
 ---
-🌱 I'm currently studying software engineering at my uni
----
-#### Languages & Technologies:
-<code><img height="25" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
-<code><img height="25" alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"></code>
-<code><img height="25" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
-<code><img height="25" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
-<code><img height="25" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
-<code><img height="25" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
-<code><img height="25" alt="aspnet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"></code>
----
-## 📫 **Connect with me**
+### 📫 **Let's Connect!**
 <a href="https://www.linkedin.com/in/nhiphan4303/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pauljones0" height="30" width="40" /></a>
+
 ---
-## 📊 **Stats**
+### 🛠️ Skills & Tools
+- Languages: ☕ Java, 🌐 HTML, 🎨 CSS, 🐘 PHP
+- Frameworks & Libraries: 🎭 Java Swing, 🏗️ ASP.NET, 🎨 Bootstrap
+- Databases: 🛢️ MySQL
+- Tools: 🐙 GitHub
+
+---
+### 💼 Projects & Highlights 
+
+| 📝 Project       | 📄 Description                                                         | 🔗 Link                                      |
+|------------------|-----------------------------------------------------------------------|---------------------------------------------|
+| **Ecommerce Website**   | 🛍️ A modern and responsive e-commerce platform for selling cosmetics, built with ASP.NET, JavaScript, CSS, and HTML. | [Repo](https://github.com/nhiph4303/cosmetic-ecommerce-website) |
+| **Desktop Application**   | 🍽️ Restaurant Management System built with Java and Java Swing  | [Repo](https://github.com/nhiph4303/Restaurant-management-system) |
+
+
+### 📊 **Stats**
 | <a href="https://github.com/nhiph4303"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nhiph4303&show_icons=true&theme=panda&hide=issues&cache_seconds=10" alt="Nhi's GitHub Stats" /></a> | <a href="https://github.com/nhiph4303"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nhiph4303&layout=compact&theme=panda&cache_seconds=10" alt="Top Languages" /></a> |
 | ------------- | ------------- |
+
 ---
-🎉 **Thank you for visiting! Feel free to connect with me and explore my projects!** 🌷
+![Footer GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanhpZWRlaG56dWdwYWYwYTlicXZodnFjcTlpMDJjZGhnZzdqanp4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcoAz42EifznB5u/giphy.gif)
