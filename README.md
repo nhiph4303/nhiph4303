@@ -16,7 +16,7 @@
 <code><img height="25" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
 <code><img height="25" alt="aspnet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"></code>
 
-## 📫 **Connect with me**:
+## 📫 **Connect with me**
 <a href="https://www.linkedin.com/in/nhiphan4303/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pauljones0" height="30" width="40" /></a>
 
 ## 📊 **Stats**
