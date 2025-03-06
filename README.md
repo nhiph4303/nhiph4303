@@ -27,7 +27,7 @@ I'm a Software Engineering student who loves web development, testing, and probl
 
 
 ---
-### Featured Projects  
+### 🔭 Projects  
 
 | 📝 Project | 📄 Description |
 |-------------|-----------------------------------------------------------------------|
@@ -49,4 +49,6 @@ I'm a Software Engineering student who loves web development, testing, and probl
 </a>
 
 ---
-![Footer GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanhpZWRlaG56dWdwYWYwYTlicXZodnFjcTlpMDJjZGhnZzdqanp4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcoAz42EifznB5u/giphy.gif)
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanhpZWRlaG56dWdwYWYwYTlicXZodnFjcTlpMDJjZGhnZzdqanp4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcoAz42EifznB5u/giphy.gif" width="500"/>
+</p>
