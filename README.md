@@ -5,8 +5,7 @@
   </a>
 </p>
 
-# 🌷 About Me  
-I'm a Software Engineering student who loves web development, testing, and problem-solving.
+### 🌷 I'm a Software Engineering student who loves web development, testing, and problem-solving.
 
 - 🔭 Currently building and learning **web applications** with **React, Java Spring, and ASP.NET**.  
 - 🌱 Exploring **AI** as my next learning goal.  
