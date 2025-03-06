@@ -37,7 +37,7 @@
 ---
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: stretch; gap: 10px;">
   <img height=185 style="object-fit: contain;" src="https://github-readme-stats.vercel.app/api/top-langs?username=nhiph4303&show_icons=true&locale=en&layout=compact&theme=prussian&border_radius=15&hide_border=true" alt="nhiph4303" />
-  <img height=185 style="object-fit: contain;" src="https://github-readme-streak-stats.herokuapp.com/?user=nhiph4303&theme=prussian&border_radius=15&hide_border=true" alt="nhiph4303" />
+  <img height=185 style="object-fit: contain;" src="https://streak-stats.demolab.com/?user=nhiph4303&theme=prussian&border_radius=15&hide_border=true" alt="nhiph4303" />
 </div>
 
 
