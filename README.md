@@ -1,7 +1,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=aj7tt&color=green) 
 <p align="center">
   <a href="https://github.com/nhiph4303">
-    <img width="17%" alt="Hello, I'm Nini" src="./assets/nini.png" />
+    <img width="15%" alt="Hello, I'm Nini" src="./assets/nini.png" />
   </a>
 </p>
 
@@ -23,13 +23,6 @@ I'm a Software Engineering student who loves web development, testing, and probl
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
-<p align="center">
-  <a href="https://github.com/nhiph4303">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ25obWFuczUxMGhlcW03MTM1b2N2MGVpYTdnejJnb3R5MW1sYzY5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ktW8FqKodoPUk/giphy.gif" width="280"/>
-  </a>
 </p>
 
 ---
