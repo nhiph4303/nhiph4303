@@ -25,8 +25,9 @@ I'm a Software Engineering student who loves web development, testing, and probl
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
+
 ---
-### 💼 Featured Projects  
+### Featured Projects  
 
 | 📝 Project | 📄 Description |
 |-------------|-----------------------------------------------------------------------|
@@ -34,13 +35,14 @@ I'm a Software Engineering student who loves web development, testing, and probl
 | **[Desktop Application](https://github.com/nhiph4303/Restaurant-management-system)** | 🍽️ Restaurant Management System using **Java & Swing**. |
 
 ---
-### 📊 GitHub Stats  
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: stretch; gap: 10px;">
+  <img height=185 style="object-fit: contain;" src="https://github-readme-stats.vercel.app/api/top-langs?username=nhiph4303&show_icons=true&locale=en&layout=compact&theme=prussian&border_radius=15&hide_border=true" alt="nhiph4303" />
+  <img height=185 style="object-fit: contain;" src="https://github-readme-streak-stats.herokuapp.com/?user=nhiph4303&theme=prussian&border_radius=15&hide_border=true" alt="nhiph4303" />
+</div>
 
-| <a href="https://github.com/nhiph4303"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nhiph4303&show_icons=true&theme=panda&hide=issues&cache_seconds=10" alt="Nhi's GitHub Stats" /></a> | <a href="https://github.com/nhiph4303"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nhiph4303&layout=compact&theme=panda&cache_seconds=10" alt="Top Languages" /></a> |
-| ------------- | ------------- |
 
 ---
-### 📫 Let's Connect!  
+### 📫 Let's Connect
 
 <a href="https://www.linkedin.com/in/nhiphan4303/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
