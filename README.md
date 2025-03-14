@@ -40,16 +40,17 @@
   <img height=185 style="object-fit: contain;" src="https://streak-stats.demolab.com/?user=nhiph4303&theme=prussian&border_radius=15&hide_border=true" alt="nhiph4303" />
 </div>
 
+---
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nhiph4303&bg_color=000105&color=ffffff&line=37a939&point=0e7500&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
 
 ---
 ### 📫 Let's Connect
-
 <a href="https://www.linkedin.com/in/nhiphan4303/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-<a href="https://www.instagram.com/tiffanini._/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
+
 ---
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanhpZWRlaG56dWdwYWYwYTlicXZodnFjcTlpMDJjZGhnZzdqanp4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcoAz42EifznB5u/giphy.gif" width="500"/>
