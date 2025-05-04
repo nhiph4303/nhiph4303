@@ -33,7 +33,6 @@
 |-------------|-----------------------------------------------------------------------|
 | **[Ecommerce Website](https://github.com/nhiph4303/cosmetic-ecommerce-website)** | 🛍️ Modern e-commerce site for cosmetics, built with **ASP.NET, JavaScript, CSS, HTML**. |
 | **[Desktop Application](https://github.com/nhiph4303/Restaurant-management-system)** | 🍽️ Restaurant Management System using **Java & Swing**. |
-| **[Flappy Bird Game](https://github.com/nhiph4303/Flappy-bird-game-in-Unreal-Engine-5)** | 🐦 Flappy Bird Game using **Unreal Engine 5**. |
 
 ---
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: stretch; gap: 10px;">
