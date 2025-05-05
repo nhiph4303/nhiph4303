@@ -5,10 +5,10 @@
   </a>
 </p>
 
-### 🌷 I'm a Software Engineering student who loves web development, testing, game development, and problem-solving.
+### 🌷 I'm a Software Engineering student who loves web development, testing, and problem-solving.
 
-- 🔭 Currently building and learning **web applications** with **React, Java Spring, and ASP.NET**.  
-- 🎮 Passionate about **game development**, currently exploring game engines and game mechanics.  
+- 🔭 Currently building and learning **web applications** with **React, and ASP.NET**.  
+- 🎮 Passionate about **software testing**.  
 - 🌱 Exploring **AI** as my next learning goal.  
 - 💬 Let’s connect and talk about tech, books, games, or cats! 🚀  
 
