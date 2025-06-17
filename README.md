@@ -33,9 +33,9 @@
 
 | 📝 Project | 📄 Description |
 |-------------|-----------------------------------------------------------------------|
+| **[Booking Mobile App](https://github.com/nhiph4303/Cinema-Ticket-Booking-App)** | 🎬 Cinema Ticket Booking Mobile App using **ASP.NET Core Web API & React Native**. |
 | **[Ecommerce Website](https://github.com/nhiph4303/cosmetic-ecommerce-website)** | 🛍️ Modern e-commerce site for cosmetics, built with **ASP.NET, JavaScript, CSS, HTML**. |
 | **[Desktop Application](https://github.com/nhiph4303/Restaurant-management-system)** | 🍽️ Restaurant Management System using **Java & Swing**. |
-| **[Booking Mobile App](https://github.com/nhiph4303/Cinema-Ticket-Booking-App)** | 🎬 Cinema Ticket Booking Mobile App using **ASP.NET Core Web API & React Native**. |
 
 ---
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: stretch; gap: 10px;">
