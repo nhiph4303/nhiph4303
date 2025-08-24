@@ -7,11 +7,6 @@
 
 ### 🌷 I'm a Software Engineering student who loves web development, testing, and problem-solving.
 
-- 🔭 Currently building and learning **web applications** with **React, and ASP.NET**.  
-- 🎮 Passionate about **software testing**.  
-- 🌱 Exploring **AI** as my next learning goal.  
-- 💬 Let’s connect and talk about tech, books, games, or cats! 🚀  
-
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
