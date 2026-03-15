@@ -5,7 +5,7 @@
   </a>
 </p>
 
-### 🌷 I'm a QA/QC Software Engineering who loves web development, testing, and problem-solving.
+### 🌷 I'm a QA/QC Software Engineer who loves analyzing, testing, and problem-solving.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
